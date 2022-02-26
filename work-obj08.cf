@@ -1,0 +1,49 @@
+v 4
+file . "top.vhdl" "1b22d6154b874713a6aaf189b9ccfa7bc6527bf4" "20210301164720.864":
+  entity top at 1( 0) + 0 on 111;
+  architecture test of top at 10( 294) + 0 on 112;
+file . "sl2.vhdl" "57f4355de1ea7f12927819f59b0c77320b124eb7" "20210301164720.862":
+  entity sl2 at 1( 0) + 0 on 107;
+  architecture behave of sl2 at 8( 174) + 0 on 108;
+file . "regfile.vhdl" "d99a7073d17e4563df286769ad7efc16462060b3" "20210301164720.860":
+  entity regfile at 1( 0) + 0 on 103;
+  architecture behave of regfile at 12( 377) + 0 on 104;
+file . "mips.vhdl" "2ba7fcde24702a806df641ce6af2dfbb6ce00cf6" "20210301164720.858":
+  entity mips at 1( 0) + 0 on 99;
+  architecture struct of mips at 12( 423) + 0 on 100;
+file . "flopr.vhdl" "bccf45f19798604cfe3bf45192dcffd883824355" "20210301164720.855":
+  entity flopr at 1( 0) + 0 on 93;
+  architecture asynchronous of flopr at 10( 313) + 0 on 94;
+file . "datapath.vhdl" "72291402cbc1ea4859f8bfa34080d829b0c75df4" "20210301164720.852":
+  entity datapath at 1( 0) + 0 on 89;
+  architecture struct of datapath at 16( 633) + 0 on 90;
+file . "aludec.vhdl" "9723f2a69f6cc1610ce2670507e19c82c1caeb0d" "20210301164720.845":
+  entity aludec at 1( 0) + 0 on 83;
+  architecture behave of aludec at 9( 250) + 0 on 84;
+file . "adder.vhdl" "e53700712e5c14a1cbf2b721d39e24d1509e02b4" "20210301164720.844":
+  entity adder at 1( 0) + 0 on 81;
+  architecture behave of adder at 9( 208) + 0 on 82;
+file . "alu.vhdl" "c4eb323a04af2f47e5b8ed84783ceae1cccb9815" "20210301164720.846":
+  entity alu at 1( 0) + 0 on 85;
+  architecture behave of alu at 11( 300) + 0 on 86;
+file . "controller.vhdl" "dbc5f75dccb0dc1a1b221ebac1b2f5681f8e35b5" "20210301164720.847":
+  entity controller at 1( 0) + 0 on 87;
+  architecture struct of controller at 14( 437) + 0 on 88;
+file . "dmem.vhdl" "4bd14eb80fcb5adfc53fe6c743b439755c1197b0" "20210301164720.853":
+  entity dmem at 1( 0) + 0 on 91;
+  architecture behave of dmem at 11( 272) + 0 on 92;
+file . "imem.vhdl" "08282d75595738461d766103e2b84827d295d19b" "20210301164720.856":
+  entity imem at 1( 0) + 0 on 95;
+  architecture behave of imem at 10( 237) + 0 on 96;
+file . "maindec.vhdl" "c81a1a31cb78498f8ff516ceca5366ac0b47bdf7" "20210301164720.857":
+  entity maindec at 1( 0) + 0 on 97;
+  architecture behave of maindec at 12( 383) + 0 on 98;
+file . "mux2.vhdl" "d826bab8f9c12355f45b1694fbb821d65520cb34" "20210301164720.859":
+  entity mux2 at 1( 0) + 0 on 101;
+  architecture behave of mux2 at 10( 258) + 0 on 102;
+file . "signext.vhdl" "8d167ce62d7e3818b17475eb9a5ec2a9be328c6b" "20210301164720.861":
+  entity signext at 1( 0) + 0 on 105;
+  architecture behave of signext at 8( 176) + 0 on 106;
+file . "testbench.vhdl" "bbc5b60101aa8be2065dcaea2226e86d1ea19f9f" "20210301164720.863":
+  entity testbench at 1( 0) + 0 on 109;
+  architecture test of testbench at 7( 109) + 0 on 110;
